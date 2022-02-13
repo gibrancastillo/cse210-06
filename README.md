@@ -1,9 +1,11 @@
 # Robot Finds Kitten
-Simon Carless once described robotfindskitten as "less a game and more a way of life ... It's fun to wander around until you find a kitten, at which point you feel happy and can start again". I don't think I could have said it better myself!
+Simon Carless once described robotfindskitten as "less a game and more a way of life ... It's fun to wander around until 
+you find a kitten, at which point you feel happy and can start again". I don't think I could have said it better myself!
 
 ## Getting Started
 ---
-Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 3.7 installed and running on your machine. You can install Raylib Python CFFI by opening a terminal and running the following command.
+Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 3.7 installed and running on your machine.
+You can install Raylib Python CFFI by opening a terminal and running the following command.
 ```
 python3 -m pip install raylib
 ```
